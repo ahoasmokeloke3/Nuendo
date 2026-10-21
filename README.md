@@ -223,4 +223,4 @@ Nuendo is offered as a full free version, providing you with all features and up
 Unlock your audio production potential today! **Download Nuendo for free and start creating!**
 
 ---
-**Last updated:** 2026-10-21 06:54:11 UTC
+**Last updated:** 2026-10-21 12:39:09 UTC
